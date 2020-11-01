@@ -39,6 +39,12 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#7](https://github.com/pippinmole/Illusive/issues/7) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+2. 🗣 Commented on [#7](https://github.com/pippinmole/Illusive/issues/7) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+3. ❗️ Closed issue [#8](https://github.com/pippinmole/Illusive/issues/8) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+4. 🗣 Commented on [#8](https://github.com/pippinmole/Illusive/issues/8) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+5. ❗️ Closed issue [#2](https://github.com/pippinmole/Illusive/issues/2) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+<!--END_SECTION:activity-->
 
 </details>
 
