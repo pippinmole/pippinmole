@@ -18,6 +18,7 @@
 ### I have experience in:
 [<img align="left" margin="10px" alt="Visual Studio" width="26px" src="https://www.windowsmode.com/wp-content/uploads/2019/05/Visual-Studio-2019-official-logo-e1559151167636.png" />](https://visualstudio.microsoft.com/)
 [<img align="left" alt="Jetbrains Rider" width="26px" src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" />](https://www.jetbrains.com/rider/)
+[<img align="left" alt="Unity" width="26px" src="https://cdn.wikitude.com/static-website/2017/09/26172454/unity-icon-vector-logo.png" />](https://unity.com/)
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
