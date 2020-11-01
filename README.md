@@ -31,7 +31,6 @@
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://lacphoto.org/berenice/wp-content/uploads/Photoshop-Logo_Square.jpg" />
 
 <br />
-<br />
 
 ---
 
