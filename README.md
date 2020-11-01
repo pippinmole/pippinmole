@@ -1,11 +1,11 @@
-### Hi I'm Jonathan [pippin_mole](https://illusive.azurewebsites.net/) 👋
+### Hi I'm Jonathan ([pippin_mole](https://illusive.azurewebsites.net/)) 👋
 [![Twitter Follow](https://img.shields.io/twitter/follow/pippinmole?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpippinmole&screen_name=pippinmole)
 
 ## I'm a student learning Computer Science
 
 - 🎮 Self taught game design and developer
 - 📚 Currently learning full-stack web development
-- 3️ 3 years experience with the C# environment
+- 💼 3 years experience with the C# environment
 - 🏙️ Level design and 3D modelling
 - 🅿️ Confident in Python 
 
