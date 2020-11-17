@@ -40,11 +40,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/pippinmole/Illusive/issues/4) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-2. 🗣 Commented on [#4](https://github.com/pippinmole/Illusive/issues/4) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-3. ❗️ Closed issue [#6](https://github.com/pippinmole/Illusive/issues/6) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-4. 🗣 Commented on [#6](https://github.com/pippinmole/Illusive/issues/6) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-5. ❗️ Closed issue [#16](https://github.com/pippinmole/Illusive/issues/16) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+1. ❗️ Closed issue [#17](https://github.com/pippinmole/Illusive/issues/17) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+2. 🗣 Commented on [#17](https://github.com/pippinmole/Illusive/issues/17) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+3. 🗣 Commented on [#9](https://github.com/pippinmole/Illusive/issues/9) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+4. ❗️ Closed issue [#18](https://github.com/pippinmole/Illusive/issues/18) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+5. 🗣 Commented on [#18](https://github.com/pippinmole/Illusive/issues/18) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
 <!--END_SECTION:activity-->
 
 </details>
