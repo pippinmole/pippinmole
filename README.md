@@ -40,11 +40,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#14](https://github.com/pippinmole/Illusive/issues/14) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-2. ❗️ Closed issue [#25](https://github.com/pippinmole/Illusive/issues/25) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-3. ❗️ Opened issue [#6](https://github.com/cri5ti/AspNetCoreThrottler/issues/6) in [cri5ti/AspNetCoreThrottler](https://github.com/cri5ti/AspNetCoreThrottler)
-4. ❗️ Closed issue [#21](https://github.com/pippinmole/Illusive/issues/21) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-5. 🗣 Commented on [#21](https://github.com/pippinmole/Illusive/issues/21) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+1. 🎉 Merged PR [#26](https://github.com/pippinmole/Illusive/pull/26) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+2. 💪 Opened PR [#26](https://github.com/pippinmole/Illusive/pull/26) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+3. ❗️ Closed issue [#14](https://github.com/pippinmole/Illusive/issues/14) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+4. ❗️ Closed issue [#25](https://github.com/pippinmole/Illusive/issues/25) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+5. ❗️ Opened issue [#6](https://github.com/cri5ti/AspNetCoreThrottler/issues/6) in [cri5ti/AspNetCoreThrottler](https://github.com/cri5ti/AspNetCoreThrottler)
 <!--END_SECTION:activity-->
 
 </details>
