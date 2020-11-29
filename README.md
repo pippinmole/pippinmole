@@ -40,11 +40,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/pippinmole/Illusive/pull/26) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-2. 💪 Opened PR [#26](https://github.com/pippinmole/Illusive/pull/26) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-3. ❗️ Closed issue [#14](https://github.com/pippinmole/Illusive/issues/14) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-4. ❗️ Closed issue [#25](https://github.com/pippinmole/Illusive/issues/25) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-5. ❗️ Opened issue [#6](https://github.com/cri5ti/AspNetCoreThrottler/issues/6) in [cri5ti/AspNetCoreThrottler](https://github.com/cri5ti/AspNetCoreThrottler)
+1. 🎉 Merged PR [#27](https://github.com/pippinmole/Illusive/pull/27) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+2. 💪 Opened PR [#27](https://github.com/pippinmole/Illusive/pull/27) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+3. 🎉 Merged PR [#26](https://github.com/pippinmole/Illusive/pull/26) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+4. 💪 Opened PR [#26](https://github.com/pippinmole/Illusive/pull/26) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+5. ❗️ Closed issue [#14](https://github.com/pippinmole/Illusive/issues/14) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
 <!--END_SECTION:activity-->
 
 </details>
