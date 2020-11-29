@@ -40,11 +40,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#28](https://github.com/pippinmole/Illusive/pull/28) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-2. 💪 Opened PR [#28](https://github.com/pippinmole/Illusive/pull/28) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-3. 🎉 Merged PR [#27](https://github.com/pippinmole/Illusive/pull/27) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-4. 💪 Opened PR [#27](https://github.com/pippinmole/Illusive/pull/27) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-5. 🎉 Merged PR [#26](https://github.com/pippinmole/Illusive/pull/26) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+1. 🎉 Merged PR [#29](https://github.com/pippinmole/Illusive/pull/29) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+2. 💪 Opened PR [#29](https://github.com/pippinmole/Illusive/pull/29) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+3. 🎉 Merged PR [#28](https://github.com/pippinmole/Illusive/pull/28) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+4. 💪 Opened PR [#28](https://github.com/pippinmole/Illusive/pull/28) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
+5. 🎉 Merged PR [#27](https://github.com/pippinmole/Illusive/pull/27) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
 <!--END_SECTION:activity-->
 
 </details>
