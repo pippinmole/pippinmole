@@ -40,7 +40,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/pippinmole/pippintestrepo/pull/2) in [pippinmole/pippintestrepo](https://github.com/pippinmole/pippintestrepo)
+1. ❗️ Opened issue [#2](https://github.com/pippinmole/pippinmole/issues/2) in [pippinmole/pippinmole](https://github.com/pippinmole/pippinmole)
 2. 💪 Opened PR [#2](https://github.com/pippinmole/pippintestrepo/pull/2) in [pippinmole/pippintestrepo](https://github.com/pippinmole/pippintestrepo)
 3. 🎉 Merged PR [#1](https://github.com/pippinmole/pippintestrepo/pull/1) in [pippinmole/pippintestrepo](https://github.com/pippinmole/pippintestrepo)
 4. 💪 Opened PR [#1](https://github.com/pippinmole/pippintestrepo/pull/1) in [pippinmole/pippintestrepo](https://github.com/pippinmole/pippintestrepo)
