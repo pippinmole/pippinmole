@@ -1,57 +1,31 @@
-### Hi, I'm Jonathan (pippin_mole) 👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/pippinmole?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpippinmole&screen_name=pippinmole)
+Hi 👋 My name is Jonathan
+=========================  
 
-## I'm a student learning Computer Science
+Software Engineer
+-----------------
 
-- 🎮 Self taught game design and developer
-- 📚 Currently learning full-stack web development
-- 💼 3 years experience with the C# environment
-- 🏙️ Level design and 3D modelling
-- 🅿️ Confident in Python 
+Passionate for full-stack application development & libraries. 5 years experience in game development (Unity)
+* 🌍  I'm based in Sheffield, UK
+* 🖥️  See my portfolio at [ruffles.pw](http://ruffles.pw/)
+* ✉️  You can contact me at [icondesk1@gmail.com](mailto:icondesk1@gmail.com)
+* 🧠  I'm learning Golang
+* ⚡  Currently studying Software Engineering @ University of Sheffield, UK
 
-### Connect with me:
+<a href="https://www.twitter.com/pippinmole" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/pippinmole?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.ruffles.pw/) [<img align="left" alt="pippinmole | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/pippinmole)
+### Skills
 
-<br />
+<p align="left"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a></p>
 
-### I have experience in:
-[<img align="left" margin="10px" alt="Visual Studio" width="26px" src="https://www.windowsmode.com/wp-content/uploads/2019/05/Visual-Studio-2019-official-logo-e1559151167636.png" />](https://visualstudio.microsoft.com/)
-[<img align="left" alt="Jetbrains Rider" width="26px" src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" />](https://www.jetbrains.com/rider/)
-[<img align="left" alt="Unity" width="26px" src="https://cdn.wikitude.com/static-website/2017/09/26172454/unity-icon-vector-logo.png" />](https://unity.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />](https://www.javascript.com/)
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />](https://nodejs.org/en/)
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]()
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />](https://www.mysql.com/)
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />](https://www.mongodb.com/)
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
-[<img align="left" alt="Adobe Photoshop" width="26px" src="https://www.adobe.com/content/dam/cc/us/en/creativecloud/max2020/mnemonics/photoshop.svg" />](https://www.adobe.com/uk/products/photoshop.html)
-[<img align="left" alt="Python" width="26px" src="https://magazines-attachments.raspberrypi.org/magpi/legacy-assets/2015/10/Python-logo-notext.svg_.png" />](https://www.python.org/)
+### Socials
 
-<br />
+<p align="left"> <a href="https://www.github.com/pippinmole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jonathan-ruffles-b44b30196" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/pippinmole" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCROWCHDgV1bgbZvBgKu6yzA" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
----
+### Badges
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/pippinmole/pippinmole/issues/2) in [pippinmole/pippinmole](https://github.com/pippinmole/pippinmole)
-2. 💪 Opened PR [#2](https://github.com/pippinmole/pippintestrepo/pull/2) in [pippinmole/pippintestrepo](https://github.com/pippinmole/pippintestrepo)
-3. 🎉 Merged PR [#1](https://github.com/pippinmole/pippintestrepo/pull/1) in [pippinmole/pippintestrepo](https://github.com/pippinmole/pippintestrepo)
-4. 💪 Opened PR [#1](https://github.com/pippinmole/pippintestrepo/pull/1) in [pippinmole/pippintestrepo](https://github.com/pippinmole/pippintestrepo)
-5. 🎉 Merged PR [#38](https://github.com/pippinmole/Illusive/pull/38) in [pippinmole/Illusive](https://github.com/pippinmole/Illusive)
-<!--END_SECTION:activity-->
+<b>My GitHub Stats</b>
 
-</details>
+<a href="http://www.github.com/pippinmole"><img src="https://github-readme-stats.vercel.app/api?username=pippinmole&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pippinmole's GitHub stats" /></a>
 
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img align="left" alt="pippinmole's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pippinmole&show_icons=true&hide_border=true" />
-
-</details>
+<a href="http://www.github.com/pippinmole"><img src="https://activity-graph.herokuapp.com/graph?username=pippinmole&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
