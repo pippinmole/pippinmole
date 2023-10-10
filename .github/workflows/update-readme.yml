@@ -22,9 +22,9 @@ jobs:
             token: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
 
             # Options
-            user: viceroypenguin
+            user: pippinmole
             template: classic
-            config_timezone: America/Chicago
+            config_timezone: Europe/London
             config_order: base.header, introduction, base.activity+community, base.repositories, achievements, activity
 
             # Base
