@@ -4,7 +4,7 @@ Hi 👋 My name is Jonathan
 Software Engineer
 -----------------
 
-Passionate for full-stack application development & libraries. 5 years experience in game development (Unity)
+Passionate full-stack application & library developer. 5 years experience in game development (Unity)
 * 🌍  I'm based in Sheffield, UK
 * 🖥️  See my portfolio at [ruffles.pw](http://ruffles.pw/)
 * ✉️  You can contact me at [icondesk1@gmail.com](mailto:icondesk1@gmail.com)
